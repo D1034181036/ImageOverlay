@@ -9,8 +9,8 @@ https://d1034181036.github.io/ImageOverlay/
 
 # example
 
-Before:  
+###Before:  
 ![sample_img](img/sample.jpg)
 
-After:  
+###After:  
 ![sample_finished](img/sample_finished.jpg)
