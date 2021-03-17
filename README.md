@@ -9,6 +9,6 @@ https://d1034181036.github.io/ImageOverlay/
 
 # example
 
-![sample_img](img/sample.png)
+![sample_img](img/sample.jpg)
 
-![sample_finished](img/sample_finished.png)
+![sample_finished](img/sample_finished.jpg)
