@@ -10,7 +10,11 @@ https://d1034181036.github.io/ImageOverlay/
 # Example
 
 ### Before:  
-![sample_img](img/sample.jpg)
+![sample_img](img/before.png)
 
 ### After:  
-![sample_finished](img/sample_finished.jpg)
+![sample_finished](img/after.png)
+
+
+### Compare:  
+![sample_finished](img/compare.png)
