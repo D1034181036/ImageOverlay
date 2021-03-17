@@ -7,7 +7,7 @@ This is useful for wallpapers, so you can view the icons more easily.
 
 https://d1034181036.github.io/ImageOverlay/
 
-# example
+# Example
 
 ### Before:  
 ![sample_img](img/sample.jpg)
